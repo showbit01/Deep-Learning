@@ -4,7 +4,9 @@
 Implement a simple encoder-decoder neural network with one hidden layer using the following images:
 Dataset: http://vis-www.cs.umass.edu/lfw/lfw-bush.tgz
 
-2.Graph convolution Network:
+2.Transfer Learning using Fine-Tunning
+
+3.Graph convolution Network:
 
 Implementation of Graph Convolutional Network for binary classification. 
 Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
