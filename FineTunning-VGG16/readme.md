@@ -1,5 +1,5 @@
 ﻿## Task : Transfer Learning using Fine-Tunning
-Fine-tune the VGG model (you may choose what layers to fine-tune) for one category from the PASCAL dataset, and evaluate the one-versus-rest binary classification performance. Please fill your preferences in the following sheet:  https://docs.google.com/spreadsheets/d/1E76joEv1Ph7ku7VKWPpfnXqDHMvO_H4C-ftd-UMhthU/edit?usp=sharing 
+Fine-tune the VGG model (you may choose what layers to fine-tune) for one category from the PASCAL dataset, and evaluate the one-versus-rest binary classification performance.
 
 
 ### Model Used: VGG 16 with input (128,128,3)
